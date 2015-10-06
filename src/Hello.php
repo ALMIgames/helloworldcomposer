@@ -1,10 +1,6 @@
 <?php
-
-namespace Com\Iesebre\Dam2\albertmayor\hellowordlcomposer;
-
-
+namespace Com\Iesebre\Dam2\albertmayor\helloworldcomposer;
 use Faker\Factory;
-
 class Hello
 {
     public $faker;
