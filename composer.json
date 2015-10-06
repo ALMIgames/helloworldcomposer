@@ -1,0 +1,12 @@
+{
+    "name": "albert/helloworldcomposer",
+    "authors": [
+        {
+            "name": "albert",
+            "email": "albertxerta93@hotmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
