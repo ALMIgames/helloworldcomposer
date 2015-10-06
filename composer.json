@@ -1,12 +1,17 @@
 {
-    "name": "albert/helloworldcomposer",
-    "authors": [
-        {
-            "name": "albert",
-            "email": "albertxerta93@hotmail.com"
-        }
-    ],
-    "require": {
-        "fzaninotto/faker": "^1.5"
+  "name": "albert/helloworldcomposer",
+  "authors": [
+    {
+      "name": "albert",
+      "email": "albertxerta93@hotmail.com"
     }
+  ],
+  "require": {
+    "fzaninotto/faker": "^1.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Com\\Iesebre\\Dam2\\albertmayor\\helloworldcomposer\\": "src/"
+    }
+  }
 }
